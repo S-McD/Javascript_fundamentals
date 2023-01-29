@@ -24,7 +24,7 @@ build a more complex coding challenge using all of those new concepts.
 
 ## Outline
 
-### Phase One 
+### Phase One
 
 Work through these exercises designed to train the basics of JavaScript. If you already
 know JavaScript or you feel like a challenge, feel free to skip a few of these steps.
