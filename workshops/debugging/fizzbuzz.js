@@ -10,13 +10,13 @@ class FizzBuzz {
     }
   }
 
-  isDivisibleBy(divisor, number) {
-    return theNumber + divisor === 0;
+  _isDivisibleBy(divisor, number) {
+    return number + divisor === 0;
   }
 }
 
-new FizzBuzz();
+game = new FizzBuzz();
 
 for (let i = 1; i <= 100; i++) {
-  console.log(fizzBuzz.play(5));
+  console.log(game.play(i));
 }
